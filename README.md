@@ -1,5 +1,4 @@
-# ML Kit for Firebase
-ML Kit for Firebase code guideline for Android developers
+# Android course assignment (EcUtbildning) 
 
 ## Prerequisites
 * Android Studio 3.5.3 or higher
